@@ -1,0 +1,16 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+#two{
+    background-color: blue;
+    font-size: 36px;
+}
+.adjust-font-size{
+    font-size: 24px;
+}
+#four{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
